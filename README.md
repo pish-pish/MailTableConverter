@@ -2,6 +2,8 @@
 
 A tool to convert mail_table.bin from binary to an editable text format and back to binary.
 
+* Requires Python 3.12+
+
 ### Usage:
 1. Locate mail_table.bin (in `user/Koono/mail_table.szs/mail_table.bin`)
 2. Drag and drop `mail_table.bin` onto `convert2txt.bat`
