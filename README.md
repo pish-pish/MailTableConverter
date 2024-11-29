@@ -19,13 +19,13 @@ __Flags__:
 - Flag 0 is Mail Category,
 ```
 MailCategories:
-PokoUnder3000  = 0x31,
-PokoUnder5000  = 0x32,
-PokoUnder8000  = 0x33,
-PokoUnder10000 = 0x34,
-PayDebt        = 0x35,
-SavedLouie     = 0x36,
-AllTreasures   = 0x37
+PokoUnder3000  = 49,
+PokoUnder5000  = 50,
+PokoUnder8000  = 51,
+PokoUnder10000 = 52,
+PayDebt        = 53,
+SavedLouie     = 54,
+AllTreasures   = 55
 ```
 
 - Flag 1 is Mail ID,
